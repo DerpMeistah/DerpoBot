@@ -1,0 +1,11 @@
+{
+  "name": "DerpoBot",
+  "version": "1.0.0",
+  "description": "Discord bot made by Derp",
+  "main": "bot.js",
+  "author": "DerpMeistah#6914",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
